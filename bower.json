@@ -1,0 +1,29 @@
+{
+  "name": "font-bebas-neue",
+  "version": "1.0.0",
+  "homepage": "https://github.com/GitScrum/font-bebas-neue",
+  "description": "Bebas Neue Regular Cyrillic font repo for using with Bower",
+  "main": [
+    "font-bebas-neue.css",
+    "fonts/**/*"
+  ],
+  "keywords": [
+    "font",
+    "bebas",
+    "neue",
+    "bower",
+    "cyrillic"
+  ],
+  "authors": [
+    "fontfabric.com",
+    "Scrum"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
