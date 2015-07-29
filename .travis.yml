@@ -1,1 +1,3 @@
 language: css
+rvm:
+ - "1.0.0"
