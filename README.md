@@ -7,4 +7,4 @@
 ![GitHub license](https://img.shields.io/github/license/GitScrum/font-bebas-neue.svg?style=flat-square)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/GitScrum/font-bebas-neue/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 <br/>
-The Bebas Neue Regular with Cyrillic web font, packaged for Bower
+The Bebas Neue with Cyrillic web font, packaged for Bower
