@@ -1,7 +1,7 @@
 {
   "name": "font-bebas-neue",
   "version": "1.0.0",
-  "homepage": "https://github.com/GitScrum/font-bebas-neue",
+  "homepage": "https://github.com/Scrum/font-bebas-neue",
   "description": "Bebas Neue Regular Cyrillic font repo for using with Bower",
   "main": [
     "font-bebas-neue.css",
