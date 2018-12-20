@@ -13,4 +13,5 @@ action "GitHub Action for Zeit" {
   uses = "actions/zeit-now@9fe84d5"
   needs = ["GitHub Action for npm"]
   runs = "now docs"
+  secrets = ["GITHUB_TOKEN"]
 }
